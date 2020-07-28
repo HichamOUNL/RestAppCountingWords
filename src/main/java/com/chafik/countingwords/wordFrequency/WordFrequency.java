@@ -2,7 +2,7 @@ package com.chafik.countingwords.wordFrequency;
 
 public interface WordFrequency {
 
-	String getWord();
+    String getWord();
 
-	int getFrequency();
+    int getFrequency();
 }
